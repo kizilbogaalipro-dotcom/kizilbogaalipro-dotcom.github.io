@@ -10,8 +10,8 @@ Mon portfolio personnel accessible via GitHub Pages.
 
 ## Présentation
 
-Je suis Ali Kizilboga, étudiant en **BTS1 SIO option SLAM** au Lycée Simone Weil.  
-Ce dépôt contient mon portfolio personnel qui présente mes projets réalisés durant le semestre.
+Je suis Ali Kizilboga, étudiant en **BTS2 SIO option SLAM** au Lycée Simone Weil.  
+Ce dépôt contient mon portfolio personnel qui présente mes projets réalisés durant la formation.
 
 ---
 
